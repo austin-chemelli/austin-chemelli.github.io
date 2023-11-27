@@ -1,9 +1,5 @@
 # Austin Richard Chemelli
 
-- Email: austin.chemelli@gatech.edu
-- LinkedIn: [linkedin.com/in/austin-chemelli](https://www.linkedin.com/in/austin-chemelli)
-- GitHub: [github.com/austin-chemelli](https://github.com/austin-chemelli)
-
 ## Education
 
 **Georgia Institute of Technology**  
