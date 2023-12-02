@@ -1,5 +1,7 @@
 # Austin Richard Chemelli
 
+[Open in PDF format](assets/Austin_Chemelli_resume.pdf){:target="_blank"}
+
 ## Education
 
 **Georgia Institute of Technology**  
